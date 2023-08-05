@@ -6,7 +6,7 @@
     ──「 𝐃𝐄𝐒𝐈 X 𝐌𝐔𝐒𝐈𝐂 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/7b9bfe8d7fbb2589071e3.jpg">
+  <img src="https://te.legra.ph/file/c505f41292e676e318044.jpg">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/b8e797457f437310813cb.jpg">
+  <img src="https://te.legra.ph/file/c505f41292e676e318044.jpg">
 </p>
 
 <h3 align="center">
@@ -64,19 +64,19 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Iro_m_bot"><img src="https://img.shields.io/badge/MUSIC%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/PUNJABI_CHATTING_GRPUP"><img src="https://img.shields.io/badge/MUSIC%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/iro_x_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/PUNJABI_CHATTING_GRPUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/iro_bot_support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/PUNJABI_CHATTING_GRPUP"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
+    ─「 Ꭰ Ꮂ 」─
 </h3>
 
 <p align="center">
@@ -86,6 +86,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/raichuop07"> <img src="https://img.shields.io/badge/Raichu-black?style=for-the-badge&logo=github" alt="Raichu" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Black Mamba](https://github.com/FantasticSukhi) </b>
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Altron](https://t.me/TheAltron) </b>
+- <b> ᎠᎬᏕᎨ Ꮂ ᏰᎾᎿ lack Mamba](https://github.com/FantasticSukhi) </b>
+- <b> ᎠᎬᏕᎨ Ꮂ ᎠᎲ [Altron](https://t.me/TheAltron) </b>
 
