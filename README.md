@@ -80,12 +80,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://github.com/Iro09"> <img src="https://img.shields.io/badge/PIKACHU♡-black?style=for-the-badge&logo=github" alt="PIKACHU♡" /> </a>
+
 <a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
 <a href="https://github.com/FantasticSukhi"> <img src="https://img.shields.io/badge/BLACKMAMBA-black?style=for-the-badge&logo=github" alt="Blackmamba" /> </a>
 <a href="https://github.com/raichuop07"> <img src="https://img.shields.io/badge/Raichu-black?style=for-the-badge&logo=github" alt="Raichu" /> </a>
 </p>
 
-- <b> ᎠᎬᏕᎨ Ꮂ ᏰᎾᎿ lack Mamba](https://github.com/FantasticSukhi) </b>
-- <b> ᎠᎬᏕᎨ Ꮂ ᎠᎲ [Altron](https://t.me/TheAltron) </b>
+
 
